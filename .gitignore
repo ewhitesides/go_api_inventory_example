@@ -1,0 +1,2 @@
+#exclude the build binary
+go_api_inventory_example
